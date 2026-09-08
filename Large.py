@@ -10,4 +10,5 @@ diff = abs(A - B)
 print("The difference between the two numbers is:", diff)
 
 print("The code is completed")
+print("Thanks")
   
