@@ -8,4 +8,6 @@ else:
 
 diff = abs(A - B)
 print("The difference between the two numbers is:", diff)
+
+print("The sum of the two numbers is:", A + B)
   
